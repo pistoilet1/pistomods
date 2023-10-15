@@ -4,8 +4,11 @@
     "changes": [
     "1.2.0:",
     "Ajout du support du la 23w41a ( fabric uniquement )",
+    "Ajout du support NeoForge 1.20.1",
     "Ajout d'une détection automatique quand cest pas a jours",
-    "Amélioration du support 1.20.1 1.20.2 et 23w41a ( que fabric )"
+    "Amélioration du support 1.20.1 1.20.2 et 23w41a ( que fabric )",
+    "Modif de la 1.14.2 et 1.15.2 ( forge )",
+    "Pour mettre a jour aller sur Github ou vous demander un lien de télechargement a Pistoilet ne cliquer pas mettre a jours ici cela ne fonctionne pas"
     ]
   }
 }
