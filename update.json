@@ -1,6 +1,6 @@
 {
   "Pistoilet": {
-    "latest": "1.2.0",
+    "latest": "1.2.0,",
     "changes": [
     "1.2.0:",
     "Ajout du support du la 23w41a ( fabric uniquement )",
