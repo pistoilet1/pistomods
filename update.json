@@ -3,7 +3,6 @@
     "latest": "1.2.0",
     "changes": [
     "1.3.0(en dev):",
-    "Ajout de forge APi ( 1.19.2 et 1.20.1 )",
     "Ajout du support du la 23w42a ( fabric uniquement )",
     "Mise a jours de forge 1.19.2",
     "Modification de la 23w41a ( oui cette snapshot n'est pas retirer )",
