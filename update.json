@@ -1,11 +1,13 @@
 {
   "Pistoilet": {
-    "latest": "1.2.0",
+    "latest": "1.3.0",
     "changes": [
-    "1.3.0(en dev):",
+    "1.3.0 (dernièreversion):",
     "Ajout du support du la 23w42a ( fabric uniquement )",
     "Mise a jours de forge 1.19.2",
-    "Modification de la 23w41a ( oui cette snapshot n'est pas retirer )",
+    "Mise a jours de fabric loader de la 1.20.1,1.20.2,23w41a ",
+    "Mise a jours de fabric api de la 1.20.1,1.20.2,23w41a ",
+    "Modification de la 23w41a ( il sera supr quand la 23w43a sortira ) ",
     "1.2.0:",
     "Ajout du support du la 23w41a ( fabric uniquement )",
     "Ajout du support NeoForge 1.20.1",
