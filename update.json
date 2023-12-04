@@ -2,7 +2,7 @@
   "Pistoilet": {
     "latest": "1.4.0,",
     "changes": [
-    "1.4.0 (dernière version):",
+    "1.4.0:",
     "Ajout de nouvelle fonctionnalité sur la 1.19.2 (forge)",
     "Mise a jours de fabric api de la 1.20.1",
     "Mise a jours de fabric loader de la 1.20.1",
