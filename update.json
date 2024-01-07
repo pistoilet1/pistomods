@@ -3,18 +3,9 @@
     "latest": "1.5.0",
     "changes": [
     "1.4.0:",
-    "Ajout de nouvelle fonctionnalité sur la 1.19.2 (forge)",
-    "Mise a jours de fabric api de la 1.20.1",
-    "Mise a jours de fabric loader de la 1.20.1",
-    "Fix de la 1.14.4 ( forge )",
-    "Fix de la 1.18.2 ( forge ) ",
-    "Fix de la 1.19.2 ( forge ) ",
+    "flemme",
     "1.3.0:",
-    "Ajout du support du la 23w42a ( fabric uniquement )",
-    "Mise a jours de forge 1.19.2",
-    "Mise a jours de fabric loader de la 1.20.1,1.20.2,23w41a ",
-    "Mise a jours de fabric api de la 1.20.1,1.20.2,23w41a ",
-    "Modification de la 23w41a ( il sera supr quand la 23w43a sortira ) "
+    "flemme"
     ]
   }
 }
