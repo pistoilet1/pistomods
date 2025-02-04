@@ -1,8 +1,8 @@
 {
 	"homepage": "https://github.com/pistoilet1/Pistomods_minecraft",
 	"promos": {
-		"1.21.4-latest": "4.2.2.0",
-		"1.21.1-latest": "4.1.18.0",
+		"1.21.4-latest": "4.2.3.0",
+		"1.21.1-latest": "4.1.20.0",
 		"1.21.0-latest": "4.0.2.0",
 		"1.20.6-latest": "3.5.5.0",
 		"1.20.4-latest": "3.4.11.0",
@@ -12,7 +12,7 @@
 		"1.18.2-latest": "1.2.0.0"
 	},
         "1.21.1": {
-		"4.1.18.0": "Nouveautés et correction de bug"
+		"4.1.20.0": "Nouveautés et correction de bug"
 	},
 
 	"1.20.6": {
